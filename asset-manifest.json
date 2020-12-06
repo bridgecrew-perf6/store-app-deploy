@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/store-app-deploy/static/css/main.47f23733.chunk.css",
+    "main.js": "/store-app-deploy/static/js/main.821ea2cd.chunk.js",
+    "main.js.map": "/store-app-deploy/static/js/main.821ea2cd.chunk.js.map",
+    "runtime-main.js": "/store-app-deploy/static/js/runtime-main.be3e7afe.js",
+    "runtime-main.js.map": "/store-app-deploy/static/js/runtime-main.be3e7afe.js.map",
+    "static/js/2.b1016ae3.chunk.js": "/store-app-deploy/static/js/2.b1016ae3.chunk.js",
+    "static/js/2.b1016ae3.chunk.js.map": "/store-app-deploy/static/js/2.b1016ae3.chunk.js.map",
+    "index.html": "/store-app-deploy/index.html",
+    "static/css/main.47f23733.chunk.css.map": "/store-app-deploy/static/css/main.47f23733.chunk.css.map",
+    "static/js/2.b1016ae3.chunk.js.LICENSE.txt": "/store-app-deploy/static/js/2.b1016ae3.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/store-app-deploy/static/media/atlas-bg.22a1a98e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be3e7afe.js",
+    "static/js/2.b1016ae3.chunk.js",
+    "static/css/main.47f23733.chunk.css",
+    "static/js/main.821ea2cd.chunk.js"
+  ]
+}
